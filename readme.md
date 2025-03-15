@@ -1,4 +1,4 @@
-#№ Basic explanation
+## Basic explanation
 
 It's an explanation why I created current reposetory.
 
