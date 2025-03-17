@@ -1,0 +1,3 @@
+[submodule "rust-course"]
+	path = rust-course
+	url = https://github.com/djnzx/rust-course.git
